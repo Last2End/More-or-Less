@@ -1,6 +1,6 @@
 # More-or-Less
 
-##**Goal of the game**
+**Goal of the game**
 
 >More or less is a game where you have to guess the mystery number. The number is between 1 and 100.
 
