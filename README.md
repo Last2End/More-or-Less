@@ -6,6 +6,7 @@
 For the C file :
 
 gcc moreorless.c -o moreorless
+./moreorless
 
 For the python file :
 
