@@ -24,7 +24,7 @@ int main(void){
                 print("Well done, you found the mystery number in one shot !\n");
             }
             else{
-		        print("Well done, you found the mystery number in %d moves !\n",test);
+		print("Well done, you found the mystery number in %d moves !\n",test);
 	        }
         on_off = 0;
 	    }
@@ -38,6 +38,5 @@ int main(void){
             test += 1;
         }
 	}
-
 	return 0;
 }
